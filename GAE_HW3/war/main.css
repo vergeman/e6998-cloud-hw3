@@ -1,0 +1,20 @@
+@CHARSET "utf-8";
+html {
+	padding: 15px;
+}
+#main {
+	
+}
+h2 {
+	font-size: 36px;
+}
+
+td {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+table {
+	border-spacing: 10px;
+	border: solid 1px;
+}
